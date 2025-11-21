@@ -38,7 +38,7 @@
 
     <header>
         <h1 class="text-center text-danger">
-            HOME PAGE
+            PAGINA 2
         </h1>
     </header>
     
